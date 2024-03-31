@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+env-bak/
+env1/
+venv1/
+.venv/
+.venv.bak/
+pip-wheel-metadata/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Generated documentation
+docs/_build/
+
+# Any local files or directories you want to ignore

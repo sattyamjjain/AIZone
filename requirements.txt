@@ -1,0 +1,9 @@
+pandas
+pylab-sdk
+matplotlib
+scikit-learn
+numpy
+mpl-toolkits.clifford
+scipy
+snapml
+opendatasets

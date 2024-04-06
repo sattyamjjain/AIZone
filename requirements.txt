@@ -7,3 +7,4 @@ mpl-toolkits.clifford
 scipy
 snapml
 opendatasets
+keras

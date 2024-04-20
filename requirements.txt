@@ -8,3 +8,5 @@ scipy
 snapml
 opendatasets
 keras
+pillow
+opencv-python

@@ -2,11 +2,11 @@
 # AIZone
 
 ### Introduction
-Welcome to AIZone, a rich and detailed exploration of various machine learning and deep learning algorithms and its techniques. This project serves as a resource for learners and practitioners alike, offering practical implementations and deep dives into the theory behind some of the most commonly used algorithms in data science.
+Welcome to AIZone, a rich and detailed exploration of various machine learning and deep learning algorithms and their techniques. This project serves as a resource for learners and practitioners alike, offering practical implementations and deep dives into the theory behind some of the most commonly used algorithms in data science.
 
 ### Project Structure
 #### Overview
-AIZone is structured into several modules, each focusing on a different aspect of machine learning. The project contains a series of Jupyter notebooks, each designed to explain and demonstrate a specific machine learning algorithm or technique. 
+AIZone is structured into several modules, each focusing on a different aspect of machine learning. The project contains a series of Jupyter notebooks, each designed to explain and demonstrate a specific machine-learning algorithm or technique. 
 
 #### Modules
 - **Classification**: This section includes notebooks on different classification algorithms such as Decision Trees, K-Nearest Neighbors (KNN), etc. Each notebook provides practical examples, algorithm insights, and coding exercises.
@@ -39,7 +39,11 @@ Ensure you have Python installed on your machine. Python 3.6 or higher is recomm
 To explore the notebooks:
 1. Navigate to the desired module directory.
 2. Open a notebook using JupyterLab or Jupyter Notebook.
-3. Run the cells in sequence to understand the specific machine learning algorithm.
+3. Run the cells in sequence to understand the specific machine-learning algorithm.
+
+## Repo Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/4cb27f29e107e7e8b5bc846fcbff51d23919abcf.svg "Repobeats analytics image")
 
 ### Contributing
 Contributions to AIZone are more than welcome. If you have suggestions for improvements, additional algorithms, or corrections, please feel free to fork the repository and submit a pull request. Please ensure your code adheres to the existing style for consistency.

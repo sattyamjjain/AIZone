@@ -10,3 +10,5 @@ opendatasets
 keras
 pillow
 opencv-python
+seaborn
+skillsnetwork

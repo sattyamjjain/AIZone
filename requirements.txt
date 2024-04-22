@@ -12,3 +12,6 @@ pillow
 opencv-python
 seaborn
 skillsnetwork
+torch
+torchvision
+torchaudio

@@ -15,3 +15,8 @@ skillsnetwork
 torch
 torchvision
 torchaudio
+tensorflow
+tensorflow_hub
+tf_slim
+tensorflowjs
+tfrecord

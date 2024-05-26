@@ -20,3 +20,4 @@ tensorflow_hub
 tf_slim
 tensorflowjs
 tfrecord
+grpcio
